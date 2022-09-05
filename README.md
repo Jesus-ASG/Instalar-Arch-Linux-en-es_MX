@@ -49,7 +49,12 @@ Una vez que tenga internet ejecute el comando "archinstall"<br>
     archinstall
 
 ![image](https://user-images.githubusercontent.com/106128245/188323745-d66e8e84-e52b-4960-8df6-1b2e234a560e.png)<br>
-Se cargará una pantalla similar a la siguiente, presionar enter en cada apartado. <br>
+
+Si llegara a ocurrir un error al ejecutar el comando puede usar "reboot" para resetear su máquina, en este caso debe volver a configurar teclado e internet, procure tener la imagen ISO de Arch Linux actualizada
+
+    reboot
+
+Si todo salió bien se cargará una pantalla similar a la siguiente, presionar enter en cada apartado. <br>
 ![image](https://user-images.githubusercontent.com/106128245/188323810-fa4c4d0c-75be-4ec2-9e63-e39d6a3b6753.png)
 
 ### Archisntall Language / Idioma de Archinstall
